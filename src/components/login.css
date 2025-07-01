@@ -1,0 +1,7 @@
+.button{
+      display: flex;
+  justify-content: center; /* center buttons horizontally */
+  align-items: center;     /* center buttons vertically if you add height */
+  gap: 20px;               /* modern and clean way to add spacing between items */
+  
+}
